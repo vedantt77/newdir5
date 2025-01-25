@@ -3,11 +3,11 @@ export function HomeHero() {
     <section className="bg-gradient-to-br from-primary/5 to-secondary/5 py-20">
       <div className="container mx-auto px-4 text-center">
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-          🚀 Startups.ad - Discover {' '}
+           Discover {' '}
           <span className="text-green-500">
             money making
           </span>{' '}
-          startups 
+          startups💸
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
           💌 Join our newsletter to receive free case studies, startup ideas, and insightful interviews with startup founders twice a week
