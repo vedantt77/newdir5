@@ -10,7 +10,7 @@ export const senja: Startup = {
   category: 'SaaS',
   foundedDate: '2022',
   location: 'london, UK',
-  website: 'https://www.betterpic.io/',
+  website: 'https://senja.io/',
   isVerified: false,
   longDescription: 'Senja.io is a platform designed to help businesses collect, manage, and showcase customer testimonials and reviews. It provides tools to gather feedback seamlessly, create visually appealing testimonial displays, and leverage social proof to build trust and enhance brand credibility.',
  
