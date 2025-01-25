@@ -7,6 +7,9 @@ export default {
     './src/**/*.{ts,tsx}',
   ],
   theme: {
+    fontFamily: {
+      sans: ['Montserrat', 'sans-serif'],
+    },
     extend: {
       borderRadius: {
         lg: 'var(--radius)',
